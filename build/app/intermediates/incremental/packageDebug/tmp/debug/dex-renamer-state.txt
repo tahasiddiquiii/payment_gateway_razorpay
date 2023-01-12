@@ -1,0 +1,4 @@
+#Thu Jan 12 16:37:34 IST 2023
+base.0=/Users/adonis/Documents/FlutterDev/flutterPojects/rayzorpay_payment_gateway/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
